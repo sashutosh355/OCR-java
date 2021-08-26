@@ -1,0 +1,3 @@
+# OCR-java
+The app uses offline version of OCR ML kit to detect TEXT from captured image...
+just import to android studio and get going
